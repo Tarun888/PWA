@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tarun888/-Progressive-Web-App.git/static/css/main.db3cd93a.css",
+    "main.js": "/Tarun888/-Progressive-Web-App.git/static/js/main.793de186.js",
+    "index.html": "/Tarun888/-Progressive-Web-App.git/index.html",
+    "main.db3cd93a.css.map": "/Tarun888/-Progressive-Web-App.git/static/css/main.db3cd93a.css.map",
+    "main.793de186.js.map": "/Tarun888/-Progressive-Web-App.git/static/js/main.793de186.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db3cd93a.css",
+    "static/js/main.793de186.js"
+  ]
+}
